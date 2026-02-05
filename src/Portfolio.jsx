@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from 'react';
 import { Menu, X, Github, Linkedin, Mail, Smartphone, Code, Zap, ExternalLink } from 'lucide-react';
 
