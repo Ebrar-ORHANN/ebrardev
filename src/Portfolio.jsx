@@ -299,6 +299,15 @@ function Portfolio() {
       github: "https://github.com/Ebrar-ORHANN/cafe_menu",
       
     },
+   {
+  id: 3,
+  title: "AI Recipe App",
+  description: "Yapay zeka destekli tarif öneri mobil uygulaması. Kullanıcı girdilerine göre dinamik tarif üretimi, API entegrasyonu ve modern mobil arayüz deneyimi.",
+  image: "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=800&h=600&fit=crop",
+  tech: ["React Native", "Expo", "AI API", "REST API", "JavaScript"],
+  github: "https://github.com/Ebrar-ORHANN/recipe-ai-app"
+},
+
     
   ];
 
